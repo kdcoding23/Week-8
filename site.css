@@ -15,10 +15,6 @@ body {
     color: rgb(0, 157, 255);
 }
 
-#about-heading {
-    color: rgb(112, 82, 214);
-}
-
 div {
     display: flex;
     align-items: center;
